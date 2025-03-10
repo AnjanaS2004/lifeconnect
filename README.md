@@ -1,7 +1,3 @@
-Here's the **updated README** with a **shorter backend setup section** while keeping all necessary commands.  
-
----
-
 # **LifeConnect - Emergency Response System 🚑🩸**  
 
 ## **Project Overview**  
@@ -98,5 +94,3 @@ firebase deploy
 - **Google Maps API** for location tracking in accident reporting.  
 
 ---
-
-Now the **backend setup** is **shorter and to the point**, while keeping all necessary steps. Let me know if you need further refinements! 🚀
