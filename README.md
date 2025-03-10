@@ -1,4 +1,4 @@
-<b> **LifeConnect - Emergency Response System 🚑🩸**</b>
+<b><h1> **LifeConnect - Emergency Response System 🚑🩸**</b></h1>
 
 ## **Project Overview**  
 LifeConnect is an emergency response system designed to assist users in **blood donation requests** and **accident reporting**. It features a **React-based frontend** and a **Firebase-powered backend**, ensuring real-time assistance and seamless communication.  
